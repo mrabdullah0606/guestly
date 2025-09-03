@@ -234,7 +234,7 @@ function App() {
                   href="#"
                   className="text-gray-700 hover:text-gray-900 px-3 py-2 text-sm font-medium"
                 >
-                  STR VA Services
+                  Guestly VA Services
                 </a>
                 <a
                   href="#"
@@ -297,12 +297,11 @@ function App() {
                 Your Short-Term Rental Virtual Assistant
               </p>
               <p className="text-gray-600 max-w-2xl mx-auto mb-8 leading-relaxed">
-                STR Assistance is the only short-term rental virtual assistant
-                company offering trained professionals specifically for vacation
-                rental properties. Get the 24/7 virtual assistant in India you
-                need to make your short-term rental business successful. We
-                provide dedicated virtual assistants to help you increase
-                revenue - all with STR Assistance, available 24/7!
+                Guestly Assistance is the only virtual assistant company
+                dedicated to short-term rentals. Our trained professionals are
+                available 24/7 to manage guest communication, handle bookings,
+                and streamline operations — helping you deliver exceptional
+                experiences and maximize your rental revenue.
               </p>
               <button className="bg-pink-500 hover:bg-pink-600 text-white px-8 py-3 rounded-md text-lg font-medium">
                 Schedule A Meeting
@@ -319,18 +318,18 @@ function App() {
               Your Business
             </h2>
             <p className="text-gray-600 max-w-4xl mx-auto mb-12 leading-relaxed">
-              Our STR virtual assistants are trained specifically for short-term
-              rental management. Each short-term rental virtual assistant we
-              hire professionally handles all your vacation rental management
-              tasks. Our short-term rental VA experts are trained on the Airbnb
-              platform and can be your
+              At Guestly Assistance, our virtual assistants are trained
+              exclusively in short-term rental management. From guest
+              communication to day-to-day operations, each assistant is equipped
+              to handle your vacation rental tasks with professionalism and
+              care. With expertise on the Airbnb platform, your{" "}
               <span className="text-pink-500 font-semibold">
-                {" "}
-                dedicated Airbnb virtual assistant
+                dedicated Airbnb virtual assistant{" "}
               </span>
-              . So, you can experience a 25% increase in your rental income and
-              see how your short-term rental business succeeds with unmatched
-              dedication and care of our top-tier team.
+              can help streamline your business, enhance guest satisfaction, and
+              even boost your rental income by up to 25%. Experience the
+              unmatched dedication of our top-tier team, available to support
+              you around the clock.
             </p>
           </div>
         </section>
@@ -383,10 +382,11 @@ function App() {
                 <span className="text-pink-500">Short-Term Rental VA</span>
               </h2>
               <p className="text-gray-600 max-w-3xl mx-auto">
-                Our short-term rental virtual assistants provide comprehensive
-                support to streamline your operations. From guest communication
-                to property management, we handle it all with 24/7 availability
-                to keep your rental running smoothly, guests happy, and business
+                Our short-term rental virtual assistants deliver comprehensive
+                support to simplify and optimize your operations. From guest
+                communication to property management, we handle every detail
+                with 24/7 availability—ensuring your rentals run smoothly, your
+                guests stay happy, and your business remains consistently
                 profitable.
               </p>
             </div>
@@ -405,12 +405,11 @@ function App() {
                   Property Listing Management
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  We manage your property listings and amenities by creating
-                  captivating descriptions, eye-catching photos, and competitive
-                  pricing across multiple platforms, ensuring 24/7 visibility.
-                  Our Airbnb specialists in India optimize your listings for
-                  maximum visibility and bookings while regularly updating and
-                  adjusting them for seasonal changes and improvements.
+                  Showcase your rentals with compelling descriptions,
+                  eye-catching photos, and competitive pricing. Our Airbnb
+                  specialists in India optimize and update listings year-round
+                  to boost visibility, attract more bookings, and keep you ahead
+                  of the competition.
                 </p>
               </div>
 
@@ -427,13 +426,10 @@ function App() {
                   Guest Communication & Support
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Timely guest communication positive reviews! We handle guest
-                  inquiries, respond promptly and professionally to booking
-                  requests, send pre-arrival information, and provide ongoing
-                  support to guest stay follow-ups, our responsive customer care
-                  team ensures exceptional guest experiences and positive
-                  reviews, recommending local tours, and assist with
-                  rescheduling for smooth stays.
+                  From inquiries to post-stay follow-ups, we handle all guest
+                  communication promptly and professionally. Our 24/7 support
+                  ensures smooth stays, positive reviews, and returning happy
+                  guests.
                 </p>
               </div>
 
@@ -450,13 +446,9 @@ function App() {
                   Check-in & Check Out
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  For a smooth and hassle-free check-in and check-out experience
-                  for your guests, we provide by sending check-in instructions
-                  with detailed arrival instructions, house rules, and check-out
-                  procedures. We also provide 24/7 guest support for early or
-                  late check-in. We coordinate arrival times and handle any
-                  special requests to ensure a seamless start to our guest's
-                  stay.
+                  Make arrivals and departures seamless with clear instructions,
+                  house rules, and 24/7 assistance. We coordinate schedules and
+                  special requests to guarantee stress-free guest experiences.
                 </p>
               </div>
             </div>
@@ -475,13 +467,10 @@ function App() {
                   Cleaning & Maintenance Coordination
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Fast turnovers start with spotless spaces. That's why we
-                  schedule cleaning services between guest stays to ensure your
-                  property is perfectly prepared property. If anything is broken
-                  or in need of repair, we coordinate with trusted local
-                  contractors and service providers to ensure we consistently
-                  track maintenance requests, repairs, and associated costs to
-                  help optimize your rental operations.
+                  We schedule cleaning between stays and manage repairs with
+                  trusted contractors. Every request and cost is tracked—keeping
+                  your property spotless, maintained, and guest-ready at all
+                  times.
                 </p>
               </div>
 
@@ -498,13 +487,11 @@ function App() {
                   Reservation & Review Management
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Seamless bookings and glowing reviews aren't luck; they're the
-                  result of proper reservation management and guest relationship
-                  building. We ensure your calendar are synchronized across all
-                  platforms to prevent double bookings, manage cancellations,
-                  and handle modifications. Our commitment is that we smartly
-                  manage review & respond within 24 hours, so you'll never miss
-                  an opportunity for great guest experiences.
+                  Seamless bookings and glowing reviews are no accident. We
+                  synchronize calendars across platforms to prevent double
+                  bookings, manage cancellations, and handle modifications. Our
+                  team responds to reviews within 24 hours—building strong guest
+                  relationships and driving more positive feedback.
                 </p>
               </div>
 
@@ -521,13 +508,12 @@ function App() {
                   Dynamic Pricing Optimization
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Enjoy management-based dynamic pricing! Our strategies based
-                  on smart algorithms, seasonality, local events, competitor
-                  analysis, and live metrics, dynamically optimizing your
-                  earnings. We implement a flexible pricing strategy that
-                  adjusts rates based on demand, ensuring your best rates
-                  competitive, while offering additional amenities to guests who
-                  desire more luxury and premium experiences.
+                  Maximize revenue with smart, dynamic pricing. Using
+                  algorithms, seasonality, competitor analysis, and local
+                  events, we adjust your rates in real time. Our flexible
+                  pricing strategy ensures your listings stay competitive while
+                  offering premium options for guests seeking luxury
+                  experiences.
                 </p>
               </div>
             </div>
@@ -546,13 +532,11 @@ function App() {
                   Co-Hosting Support
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  A trusted partner for premium Airbnb co-hosting services, for
-                  property owners who want to reach maximum rental income
-                  potential. We work through time. Our co-hosting solution
-                  includes creating or updating your Airbnb listing and managing
-                  all aspects of your short-term rental business. From guest
-                  reviews, even help in maintenance or housekeeping providing
-                  you with a high hands-off rental experience.
+                  Experience hassle-free hosting with our premium co-hosting
+                  services. From creating or optimizing listings to managing
+                  guest communication, reviews, housekeeping, and maintenance,
+                  we handle the details—helping property owners achieve maximum
+                  rental income with a hands-off approach.
                 </p>
               </div>
 
@@ -569,13 +553,11 @@ function App() {
                   Channel Manager Integration
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Whether it's Airbnb, Booking.com, or other vacation rental
-                  management solutions, streamline your operations, saving you
-                  time. Our Short-Term Rental VA ensures after channel manager
-                  integration that your property listings, rates, and
-                  availability are synchronized across all platforms, send rate
-                  changes, pricing, and availability in real-time, preventing
-                  double bookings and ensuring maximum exposure and bookings.
+                  Streamline your operations across Airbnb, Booking.com, and
+                  more. We integrate with channel managers to keep your
+                  listings, rates, and availability synchronized in real
+                  time—preventing double bookings, saving you time, and ensuring
+                  maximum exposure for your rentals.
                 </p>
               </div>
 
@@ -592,12 +574,11 @@ function App() {
                   Financial & Accounting Support
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Get full assistance with accounting & bookkeeping services
-                  that help manage everything from payment processing to local
-                  audit coordination. We assist with tracking expenses,
-                  generating detailed financial reports, and tax preparation
-                  support, providing you with a clear and organized financial
-                  overview.
+                  Stay on top of your finances with our complete accounting and
+                  bookkeeping support. We manage payment processing, track
+                  expenses, prepare detailed financial reports, and assist with
+                  tax compliance—giving you a clear, organized financial picture
+                  at all times.
                 </p>
               </div>
             </div>
@@ -621,13 +602,10 @@ function App() {
                   24/7 VA Support
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Available 24/7, our STR assistants are always ready to support
-                  you, your guests, and your short-term rental business. We
-                  provide round-the-clock assistance to ensure seamless
-                  operations. Whether it's urgent guest support for Airbnb
-                  rentals or quick resolution of any issues that arise, our
-                  dedicated virtual assistants are there to provide immediate
-                  solutions for guest satisfaction.
+                  Round-the-clock support for you and your guests. Our dedicated
+                  virtual assistants are available day and night to resolve
+                  issues quickly, provide urgent guest assistance, and keep your
+                  short-term rental operations running without interruption.
                 </p>
               </div>
 
@@ -644,13 +622,10 @@ function App() {
                   Legal Compliance
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Non-compliance with local regulations can lead to costly
-                  fines, legal complications, and even the shutdown of your
-                  rental business. Our STR virtual assistants help you stay
-                  compliant by managing all necessary licensing and permits for
-                  short-term rentals. Our team takes on top of regulatory
-                  changes, ensuring you're always providing a great guest
-                  experience while we handle the legalities and compliance.
+                  Avoid costly fines and legal risks. Our team ensures your
+                  rental business stays compliant by handling licensing,
+                  permits, and regulatory requirements. We monitor legal changes
+                  so you can focus on guests while we manage the paperwork.
                 </p>
               </div>
 
@@ -667,13 +642,10 @@ function App() {
                   Police Reporting
                 </h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Our Rental VA & STR Assistance ensure your property complies
-                  with local regulations, including mandatory guest registration
-                  and reporting requirements. We handle all guest communication
-                  with safety protocols, as your safety consultant with safety
-                  protocols, ensuring compliance with local authorities. We
-                  taking care of all police reporting obligations, so you stay
-                  worry-free and focus on your business.
+                  Stay compliant with mandatory guest registration and reporting
+                  laws. We handle communication with local authorities, manage
+                  safety protocols, and take care of all police reporting
+                  obligations—so your business operates smoothly and worry-free.
                 </p>
               </div>
             </div>
